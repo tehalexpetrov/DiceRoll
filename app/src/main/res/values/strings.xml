@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRolls</string>
+    <string name="btn">Кидать</string>
+    <string name="image">Image</string>
+</resources>
